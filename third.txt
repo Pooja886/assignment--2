@@ -1,3 +1,3 @@
 third text file
 add new
-
+Rebase merge
