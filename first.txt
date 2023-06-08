@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-heelo from pooja
-=======
 this is our group project.
->>>>>>> refs/remotes/origin/main
+
