@@ -1,2 +1,6 @@
 this is our group project.
+<<<<<<< HEAD
 changes for conflit
+=======
+conflit conflit
+>>>>>>> refs/remotes/origin/main
